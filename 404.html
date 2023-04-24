@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>404 Page Not Found</title>
+  </head>
+  <body>
+    <script>
+      const url = window.location.href.split('/');
+      const page = url[url.length - 1];
+      window.location.replace('/#' + page);
+    </script>
+  </body>
+</html>
