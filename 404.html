@@ -10,6 +10,8 @@
     <script>
       const url = window.location.href.split('/');
       const page = url[url.length - 1];
+
+      const navigate = useNavigate();
       navigate("/" + page);
     </script>
   </body>
