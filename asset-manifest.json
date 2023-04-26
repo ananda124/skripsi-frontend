@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/skripsi-frontend/static/css/main.8e95416a.css",
-    "main.js": "/skripsi-frontend/static/js/main.3dc21336.js",
+    "main.js": "/skripsi-frontend/static/js/main.10b553cc.js",
     "static/js/787.1ea3353a.chunk.js": "/skripsi-frontend/static/js/787.1ea3353a.chunk.js",
     "static/media/th.jpg": "/skripsi-frontend/static/media/th.e2f96fdd4752041e0263.jpg",
     "index.html": "/skripsi-frontend/index.html",
     "main.8e95416a.css.map": "/skripsi-frontend/static/css/main.8e95416a.css.map",
-    "main.3dc21336.js.map": "/skripsi-frontend/static/js/main.3dc21336.js.map",
+    "main.10b553cc.js.map": "/skripsi-frontend/static/js/main.10b553cc.js.map",
     "787.1ea3353a.chunk.js.map": "/skripsi-frontend/static/js/787.1ea3353a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e95416a.css",
-    "static/js/main.3dc21336.js"
+    "static/js/main.10b553cc.js"
   ]
 }
